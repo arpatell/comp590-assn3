@@ -22,7 +22,7 @@
     c(p2).
     p2:start().
     ```
-    > **Note:** After entering an integer, be sure to type in `"."` before pressing Enter to specify the end of input. This is part of Erlang syntax when using `io:read/1`
+    > **Note:** After entering an integer, be sure to type in `.` before pressing Enter to specify the end of input. This is part of Erlang syntax when using `io:read/1`
 
 3. **Exit the Erlang Shell:**  
-    To exit the shell, press `Ctrl+G`, then type `"q"` and hit Enter
+    To exit the shell, press `Ctrl+G`, then type `q` and hit Enter
